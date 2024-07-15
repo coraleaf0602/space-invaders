@@ -37,7 +37,7 @@ To run the Space Invaders game on your local machine, follow these steps:
 
 5. **Run the game:**
 
-   Execute the `sketch` file to start the game.
+   Execute the `AlienExercise.pde` file to start the game.
 
 ## 🎮 How to Play
 
